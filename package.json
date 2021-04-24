@@ -1,0 +1,15 @@
+{
+  "name": "apimysql",
+  "version": "1.0.0",
+  "description": "Api mysql em nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Valério",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}
